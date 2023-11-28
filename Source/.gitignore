@@ -67,3 +67,7 @@ _ReSharper*/
 
 #Test files
 *.testsettings
+
+# JetBrains Rider
+.idea/
+*.sln.iml
